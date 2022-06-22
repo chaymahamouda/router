@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+  background-image: url(https://cdn.wallpapersafari.com/29/57/QEj3Uo.jpg);
+}
+.navv{
+  background-color: rgba(8, 1, 1, 0.822) !important;
+}
+.list{
+  display: flex ;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.chayma{
+  display: flex;
+  flex-direction: column;
+ 
+  position: absolute;
+  line-height: 75px;
+  z-index: 9999999999999999999;
+  margin-left: 441px !important;
+  border-radius: 20px;
+}
+.addd-btn{
+  background-color:green;
+  color: bisque;
+  border-color:transparent;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 10px;
+  border: none;
+  font-size:xx-large;
+}
+.closee-btn{
+  background-color:whitesmoke ;
+  width: 10%;
+  height: 70px;
+  margin-left: 90%;
+  border-radius: 10px;
+  border-color:transparent;
+  font-size:xx-large;
+  border: none;
+}
+.input1{
+  border: none;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin: 5px;
+}
+.input2{
+  border: none;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin: 5px;
+}
+.input3{
+  border: none;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin: 5px;
+}
+.input4{
+  border: none;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin: 5px;
+}
+
+.acceuil h1{
+  color: white;
+  width: 100%;
+}
+.acceuil{
+  background-image:url(https://assets.nflxext.com/ffe/siteui/vlv3/25badb14-858b-4b1c-8b7d-2244098454d9/c5c8cb45-01b2-4c92-ae3a-ac65dea33a07/TN-fr-20220606-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+height: 350px;
+
+
+
+}
+.imgg{
+ margin-top: 20px;
+  transform: rotate(-4.1deg); 
+  
+}
+.pagemovie{
+  margin: 0 auto;
+ 
+  height: 700px;
+}
+.formm{
+  margin-left: 20px;
+ 
+}
